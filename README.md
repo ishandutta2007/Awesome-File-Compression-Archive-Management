@@ -1,2 +1,47 @@
 # Awesome-File-Compression-Archive-Management
 
+# Top EdTech & Interactive AI Learning Studio
+
+**Curated List of SaaS Products & Open-Source GitHub Projects**  
+*Focused on AI Tutoring Studios, Adaptive Learning Engines, Interactive Courseware, LMS Platforms & Educational Content Generation*  
+**Last updated: November 2026**
+
+This repository tracks notable **SaaS platforms** and **open-source projects** for **EdTech & Interactive AI Learning Studios**. These tools power personalized AI tutors, adaptive mastery pathways, interactive coding and math sandboxes, automated quiz/flashcard generation, AI video lessons, and self-hosted Learning Management Systems (LMS) for schools, universities, corporate L&D, and independent learners.
+
+**Examples** include Khan Academy (Khanmigo), Coursera, Duolingo, CENTURY Tech, Querium, Knewton Alta, Carnegie Learning, DreamBox Learning, Sana Labs, and Synthesia Education (the category leaders).
+
+**Open-source emphasis**: This section is heavily expanded with every major active project for open-source AI learning studios, self-hosted LMS platforms, adaptive spaced-repetition engines, interactive notebook/courseware builders, and open educational video/quiz generators — ideal for educators, EdTech developers, institutions, and lifelong learners seeking full data sovereignty and zero per-student licensing fees.
+
+Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+
+## Table of Contents
+- [SaaS/Hosted Platforms](#saashosted-platforms)
+- [Open-Source GitHub Projects](#open-source-github-projects)
+- [How to Contribute](#how-to-contribute)
+- [Disclaimer](#disclaimer)
+
+## SaaS/Hosted Platforms
+
+| Platform | Starting Price | Free Tier / Free Trial Limit | Description |
+| :--- | :--- | :--- | :--- |
+| **[Khan Academy & Khanmigo](https://khanacademy.org)** | **$4.00 / month** (or $44/year) for individual learners; **Free** for verified K–12 teachers; **$10 / student / year** for school districts | **100% Free forever** for core Khan Academy courses, mastery exercises, and teacher Khanmigo accounts (no free trial on paid student Khanmigo AI add-on) | Non-profit online learning platform featuring interactive mastery exercises and Khanmigo, a Socratic AI-powered tutor and teaching assistant. |
+| **[Coursera](https://coursera.org)** | **$49.00 / month** (single course/specialization) or **$59.00 / month** ($399/year) for Coursera Plus; **$399 / user / year** for Teams | **7-day full-access free trial** on Coursera Plus monthly and most Specializations; **free forever** audit/first-module preview on individual courses (no certificate) | Global online learning platform partnering with universities and enterprises to deliver structured courses, hands-on labs, and AI-assisted study coaching. |
+| **[Duolingo](https://duolingo.com)** | **$12.99 / month** (or ~$84–$96/year) for Super Duolingo; **$119.99 / year** for Super Family (up to 6 users); **~$29.99 / month** ($167.99/year) for Duolingo Max | **Free forever tier** with full access to 40+ courses and *Explain My Answer*, capped by daily **Energy** limits, in-app ads, and a **14-day free trial** for Super | Gamified language and math learning platform powered by spaced-repetition algorithms and generative AI roleplay and answer explanations. |
+| **[CENTURY Tech](https://century.tech)** | **£12.49 / month** (or £8.33/mo billed annually at £99.92) for individual home learners; starts at **£1,200 / year** for schools | **7-day full-access free trial** for parents/students covering all GCSE/IGCSE micro-lessons, videos, and AI recommendations; guided pilot demo for schools | AI-driven adaptive learning platform combining cognitive neuroscience and machine learning to tailor personalized study pathways and real-time teacher insights. |
+| **[Querium](https://querium.com)** | **~$9.95 – $19.95 / month** (individual/institutional StepWise STEM tutoring subscriptions) | **Limited free sample problems / guided demo** (1–3 StepWise diagnostic STEM lessons free before requiring a paid subscription or institutional license) | AI-powered STEM tutoring platform providing step-by-step adaptive coaching and diagnostic feedback for middle school, high school, and college math and science. |
+| **[Knewton Alta (Wiley)](https://wiley.com)** | **$10.95 – $14.95 / month** (single-course monthly) or **$44.95 – $49.95 / semester** ($89.95–$99.95 for 2-year multi-course AltaPass) | **14-day courtesy free access period** on Single-Term and AltaPass plans (full courseware and adaptive assignments unlocked pending financial aid/payment) | Adaptive higher-education courseware platform that dynamically adjusts instructional content and assessments based on real-time student proficiency. |
+| **[Carnegie Learning (MATHia)](https://www.carnegielearning.com)** | **~$10.00 – $30.00 / student / month** (annual K–12 school/district curriculum licensing; ~$1,000+ onboarding) | **Free educator/district sandbox demo** upon request (time-limited evaluation access to MATHia workspaces; no perpetual individual free tier) | AI-powered K–12 curriculum and intelligent tutoring software (MATHia) offering cognitive step-by-step hints and personalized mastery pacing. |
+| **[DreamBox Learning](https://www.dreambox.com)** | **$12.95 – $19.95 / month** (or $99.95–$149.95/year) for families; **$20.00 / student / year** (or $7,000/year unlimited school license) | **14-day full-access free trial** for individual families and K–8 classrooms with full adaptive math/reading placement and parent/teacher dashboards | Intelligent adaptive K–8 math and reading platform continuously analyzing student interactions to adjust difficulty, scaffolding, and curriculum sequencing. |
+| **[Sana Labs](https://sanalabs.com)** | **~$15.00 – $30.00 / user / month** (enterprise volume contracts, 300-user minimum for Sana Learn) | **14-day guided enterprise pilot / sandbox trial** (with limited AI agent workspace evaluation; no perpetual free enterprise tier) | AI-native enterprise learning platform combining adaptive personalized courses, collaborative authoring studios, and conversational knowledge assistants. |
+| **[Synthesia Education](https://www.synthesia.io)** | **$19.00 / month** ($14/mo billed annually) for Starter (1,250 credits/mo); **$89.00 / month** ($59/mo annually) for Pro | **Free forever Basic plan** capped at **10 minutes of video / month** (plus 500 credits, 9 stock avatars, link-only sharing with Synthesia watermark, no MP4 downloads) | AI video generation studio enabling educators and instructional designers to create multilingual, avatar-led training and lecture videos from text scripts. |
+
+## Open-Source GitHub Projects
+
+| Project | License / Hosting Cost | Free Tier / Self-Hosted Limit | Description |
+| :--- | :--- | :--- | :--- |
+| **[Ekko Studio (`EKKOLearnAI/ekko-studio`)](https://github.com)** | **Open-Source** ($0 software license; bring-your-own LLM API keys or local Ollama models) | **Unlimited self-hosted lessons & learners** on your own server/VPS (capped only by local hardware or external LLM token costs) | Open-source interactive AI learning studio built to create engaging, AI-assisted educational experiences, adaptive study workflows, and interactive lessons. |
+| **[Moodle (`moodle/moodle`)](https://github.com)** | **GPL-3.0 Open-Source** ($0 self-hosted; official MoodleCloud starts at ~$130/year for 50 users) | **Unlimited courses, students & plugins forever** when self-hosted (MoodleCloud offers a **45-day free trial** for up to 50 users and 200 MB storage) | The world's most widely adopted open-source Learning Management System featuring modular courseware, adaptive quizzes, competency tracking, and AI plugin integrations. |
+| **[Open edX (`openedx/edx-platform`)](https://github.com)** | **AGPL-3.0 Open-Source** ($0 self-hosted via Tutor Docker deployment) | **Unlimited MOOC enrollments, XBlocks & certificates forever** on self-hosted infrastructure (no per-seat or feature caps) | Enterprise-grade open-source MOOC and online learning platform originally founded by Harvard and MIT, supporting interactive labs, XBlocks, and rich analytics. |
+| **[Canvas LMS (`instructure/canvas-lms`)](https://github.com)** | **AGPL-3.0 Open-Source** ($0 self-hosted; Instructure Free-for-Teacher hosted tier at $0) | **Unlimited self-hosted users**; hosted *Free-for-Teacher* account is **free forever** with **500 MB file storage per course** | Modern open-source Learning Management System engineered for K–12 and higher education with gradebooks, rubrics, LTI integrations, and mobile apps. |
+| **[Kolibri (`learningequality/kolibri`)](https://github.com)** | **MIT Open-Source** ($0 software and curated OER content channels) | **100% Free forever** with offline peer-to-peer LAN syncing, unlimited local student accounts, and full Khan Academy/PhET content libraries | Offline-first open-source learning platform designed for low-resource communities, featuring curated interactive exercises, mastery tracking, and local peer sync. |
+| **[Oppia (`oppia/oppia`)](https://github.com)** | **Apache-2.0 Open-Source** ($0 self-hosted or via Oppia.org non-profit portal) | **100% Free forever** with unlimited interactive story explorations, author studio access, and learner progress tracking | Open-source interactive learning platform built around conversational, story-based explorations that adaptively respond to student misconceptions in real time. |
