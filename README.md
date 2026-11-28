@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-File-Compression-Archive-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-File-Compression-Archive-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-File-Compression-Archive-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-File-Compression-Archive-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-File-Compression-Archive-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-File-Compression-Archive-Management?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-File-Compression-Archive-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -143,7 +143,7 @@ Contributions are warmly welcome! If you know of an outstanding open-source comp
 
 1. 🍴 Fork this repository.
 2. 🌿 Create a new feature branch (`git checkout -b add-my-tool`).
-3. 📝 Add your tool under the appropriate category with a concise description and GitHub star badge.
+3. 📝 Add your tool under the appropriate category with a concise description and GitHub Stars_Badge.
 4. 🚀 Submit a Pull Request with a clear summary of why it belongs here.
 
 ---
